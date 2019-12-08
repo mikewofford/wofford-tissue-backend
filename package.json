@@ -7,6 +7,7 @@
     "body-parser": "^1.19.0",
     "ejs": "^2.7.2",
     "express": "^4.17.1",
+    "heroku": "^7.35.0",
     "issue-manager": "file:../issue-manager/issue-manager-1.0.0.tgz",
     "json": "^9.0.6",
     "mongodb": "^3.3.4",
@@ -15,11 +16,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start":"node app/server.js"
+    "start": "node app/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
 }
-
-
