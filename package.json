@@ -1,0 +1,23 @@
+{
+  "name": "tissue_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "issue-manager": "file:../issue-manager/issue-manager-1.0.0.tgz",
+    "json": "^9.0.6",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11",
+    "qs": "^6.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
