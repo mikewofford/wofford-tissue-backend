@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "heroku": "^7.35.0",
     "issue-manager": "file:../issue-manager/issue-manager-1.0.0.tgz",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "mongodb": "^3.3.4",
     "mongoose": "^5.7.11",
     "qs": "^6.9.1"
